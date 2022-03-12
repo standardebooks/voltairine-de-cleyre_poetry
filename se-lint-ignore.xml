@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="poetry.xhtml">
+		<ignore>
+			<code>s-023</code>
+			<reason>The title “Written—in—Red” is styled strangely with em dashes, which is throwing titlecase off.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
