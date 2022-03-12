@@ -149,6 +149,10 @@ footer time{
 	font-variant: normal;
 }
 
+#betrayed strong:nth-of-type(2){
+	text-transform: uppercase;
+}
+
 #the-wandering-jew [epub|type~="epigraph"]{
 	margin-top: 1em;
 }
