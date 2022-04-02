@@ -28,43 +28,58 @@
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Poetry</dc:title>
 		<meta property="file-as" refines="#title">Poetry</meta>
-		<dc:subject id="subject-1">SUBJECT_1</dc:subject>
-		<dc:subject id="subject-2">SUBJECT_2</dc:subject>
+		<dc:subject id="subject-1">Feminism -- Literary collections</dc:subject>
+		<dc:subject id="subject-2">Anarchism -- Literary collections</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
-		<meta property="term" refines="#subject-1">LCSH_ID_1</meta>
+		<meta property="term" refines="#subject-1">sh2008120381</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
-		<meta property="term" refines="#subject-2">LCSH_ID_2</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="term" refines="#subject-2">Unknown</meta>
+		<meta property="se:subject">Poetry</meta>
+		<dc:description id="description">A collection of Voltairine de Cleyre’s poetry.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;This collection contains the poems written by &lt;a href="https://standardebooks.org/ebooks/voltairine-de-cleyre"&gt;Voltairine de Cleyre&lt;/a&gt;, a prominent American feminist anarchist who was active during the late 19th and early 20th centuries. Despite (or, perhaps, because of) her childhood experience of being placed in a Catholic convent school, de Cleyre became a member of the anticlerical Freethought movement. Later, she became a member of the American anarchist movement after becoming outraged at the way defendants were sentenced at the 1886 Haymarket affair trials. Influences on de Cleyre’s beliefs and writings included Mary Wollstonecraft and her lover and fellow anarchist Dyer Lum. She also shared a respectful disagreement with her fellow feminist anarchist &lt;a href="https://standardebooks.org/ebooks/emma-goldman"&gt;Emma Goldman&lt;/a&gt; who eventually came to praise her as “the most gifted and brilliant anarchist woman America ever produced.”&lt;/p&gt;
 		</meta>
-		<dc:language>LANG</dc:language>
-		<dc:source>PG_URL</dc:source>
-		<dc:source>IA_URL</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<dc:language>en-US</dc:language>
+		<dc:source>https://www.gutenberg.org/ebooks/43098</dc:source>
+		<dc:source>https://archive.org/details/selectedworksvo01havegoog</dc:source>
+		<dc:source>https://theanarchistlibrary.org/library/voltairine-de-cleyre-collected-poems</dc:source>
+		<dc:source>https://www.google.com/books/edition/Free_Thought_Magazine/KNOMrVNM4CgC</dc:source>
+		<dc:source>https://www.google.com/books/edition/The_Open_Court/711CAQAAMAAJ</dc:source>
+		<dc:source>https://www.google.com/books/edition/The_Open_Court/6qzQAAAAMAAJ</dc:source>
+		<dc:source>https://www.google.com/books/edition/The_Worm_Turns/wslHAQAAMAAJ</dc:source>
+		<meta property="se:production-notes">Two poems transcribed on the Anarchist Library, “And Thou Too” and “Love’s Ghost” were excluded because I could not find backing scans for them.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
-		<meta property="se:url.encyclopedia.wikipedia">EBOOK_WIKI_URL</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/voltairine-de-cleyre_poetry</meta>
 		<dc:creator id="author">Voltairine de Cleyre</dc:creator>
 		<meta property="file-as" refines="#author">Cleyre, Voltairine de</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Voltairine_de_Cleyre</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n81062418</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="editor-of-compilation">Alexander Berkman</dc:contributor>
+		<meta property="file-as" refines="#editor-of-compilation">Berkman, Alexander</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#editor-of-compilation">https://en.wikipedia.org/wiki/Alexander_Berkman</meta>
+		<meta property="se:url.authority.nacoaf" refines="#editor-of-compilation">http://id.loc.gov/authorities/names/n50008066</meta>
+		<meta property="role" refines="#editor-of-compilation" scheme="marc:relators">edc</meta>
+		<meta property="se:role" refines="#editor-of-compilation" scheme="marc:relators">ann</meta>
+		<dc:contributor id="artist">Caspar David Friedrich</dc:contributor>
+		<meta property="file-as" refines="#artist">Friedrich, Caspar David</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Caspar_David_Friedrich</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n79059754</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">TRANSCRIBER</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">TRANSCRIBER_URL</meta>
+		<dc:contributor id="transcriber-1">Bryan Ness</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Ness, Bryan</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="transcriber-2">Steven Calwas</dc:contributor>
+		<meta property="file-as" refines="#transcriber-2">Calwas, Steven</meta>
+		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
+		<meta property="file-as" refines="#transcriber-3">Online Distributed Proofreading Team, The</meta>
+		<meta property="se:url.homepage" refines="#transcriber-3">https://pgdp.net</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#transcriber-3">https://en.wikipedia.org/wiki/Distributed_Proofreaders</meta>
+		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
+		<dc:contributor id="producer-1">Weijia Cheng</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Cheng, Weijia</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://www.weijiarhymeswith.asia</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">cov</meta>
