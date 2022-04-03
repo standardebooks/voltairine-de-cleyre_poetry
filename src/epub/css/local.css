@@ -130,14 +130,18 @@ header [epub|type~="epigraph"] cite{
 footer{
 	font-variant: small-caps;
 	margin-top: 1em;
-	text-align: initial;
 }
 
 footer time{
 	font-variant: normal;
 }
 
+article[epub|type] footer p{
+	text-align: right;
+}
+
 #betrayed strong:nth-of-type(2){
+	font-variant: normal;
 	text-transform: uppercase;
 }
 
