@@ -130,6 +130,7 @@ header [epub|type~="epigraph"] cite{
 footer{
 	font-variant: small-caps;
 	margin-top: 1em;
+	text-align: right;
 }
 
 footer time{

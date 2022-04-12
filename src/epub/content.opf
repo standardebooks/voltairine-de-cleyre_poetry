@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/voltairine-de-cleyre/poetry</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2022-04-12T02:48:07Z</dc:date>
+		<meta property="dcterms:modified">2022-04-12T02:48:07Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -37,7 +37,9 @@
 		<meta property="se:subject">Poetry</meta>
 		<dc:description id="description">A collection of Voltairine de Cleyre’s poetry.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;This collection contains the poems written by &lt;a href="https://standardebooks.org/ebooks/voltairine-de-cleyre"&gt;Voltairine de Cleyre&lt;/a&gt;, a prominent American feminist anarchist who was active during the late 19th and early 20th centuries. Despite (or, perhaps, because of) her childhood experience of being placed in a Catholic convent school, de Cleyre became a member of the anticlerical Freethought movement. Later, she became a member of the American anarchist movement after becoming outraged at the way defendants were sentenced at the 1886 Haymarket affair trials. Influences on de Cleyre’s beliefs and writings included Mary Wollstonecraft and her lover and fellow anarchist Dyer Lum. She also shared a respectful disagreement with her fellow feminist anarchist &lt;a href="https://standardebooks.org/ebooks/emma-goldman"&gt;Emma Goldman&lt;/a&gt; who eventually came to praise her as “the most gifted and brilliant anarchist woman America ever produced.” Prominent themes in de Cleyre’s poetry include the Haymarket incident and its aftermath (e.g. “At the Grave in Waldheim”), anticlericalism (e.g. “The Gods and the People”) and women’s liberation (e.g. “Betrayed”). While largely ignored during most of the 20th century, interest in de Cleyre and her poetry has revived during the late 20th century, thanks in part to Paul Avrich’s biography of her life, which was published in 1978 under the title &lt;i&gt;An American Anarchist: The Life of Voltairine de Cleyre&lt;/i&gt;.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/voltairine-de-cleyre"&gt;Voltairine de Cleyre&lt;/a&gt; was a prominent American feminist anarchist active during the late 19th and early 20th centuries.&lt;/p&gt;
+			&lt;p&gt;Despite (or, perhaps, because of) her childhood experience of being placed in a Catholic convent school, de Cleyre became a member of the anticlerical Freethought movement. Later, she became a member of the American anarchist movement after becoming outraged at the way defendants were sentenced at the 1886 Haymarket Affair trials. Influences on de Cleyre’s beliefs and writings included Mary Wollstonecraft and her lover and fellow anarchist Dyer Lum. She also shared a respectful disagreement with her fellow feminist anarchist &lt;a href="https://standardebooks.org/ebooks/emma-goldman"&gt;Emma Goldman&lt;/a&gt;, who eventually came to praise her as “the most gifted and brilliant anarchist woman America ever produced.”&lt;/p&gt;
+			&lt;p&gt;Prominent themes in de Cleyre’s poetry include the Haymarket Affair and its aftermath (e.g. “At the Grave in Waldheim”), anti-clericalism (e.g. “The Gods and the People”) and women’s liberation (e.g. “Betrayed”). While largely ignored during most of the 20th century, interest in de Cleyre and her poetry has revived during the late 20th century, thanks in part to Paul Avrich’s 1978 biography, &lt;i&gt;An American Anarchist: The Life of Voltairine de Cleyre&lt;/i&gt;.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/43098</dc:source>
@@ -48,8 +50,8 @@
 		<dc:source>https://www.google.com/books/edition/The_Open_Court/6qzQAAAAMAAJ</dc:source>
 		<dc:source>https://www.google.com/books/edition/The_Worm_Turns/wslHAQAAMAAJ</dc:source>
 		<meta property="se:production-notes">Two poems transcribed on the Anarchist Library, “And Thou Too” and “Love’s Ghost” were excluded because I could not find backing scans for them.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">16369</meta>
+		<meta property="se:reading-ease.flesch">85.62</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/voltairine-de-cleyre_poetry</meta>
 		<dc:creator id="author">Voltairine de Cleyre</dc:creator>
 		<meta property="file-as" refines="#author">Cleyre, Voltairine de</meta>
