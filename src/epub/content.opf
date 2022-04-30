@@ -49,6 +49,8 @@
 		<dc:source>https://www.google.com/books/edition/The_Open_Court/711CAQAAMAAJ</dc:source>
 		<dc:source>https://www.google.com/books/edition/The_Open_Court/6qzQAAAAMAAJ</dc:source>
 		<dc:source>https://www.google.com/books/edition/The_Worm_Turns/wslHAQAAMAAJ</dc:source>
+		<dc:source>https://theanarchistlibrary.org/library/voltairine-de-cleyre-a-new-hope</dc:source>
+		<dc:source>https://archive.org/details/BostonInvestigator_1893-03-15</dc:source>
 		<meta property="se:production-notes">Two poems transcribed on the Anarchist Library, “And Thou Too” and “Love’s Ghost” were excluded because I could not find backing scans for them.</meta>
 		<meta property="se:word-count">16369</meta>
 		<meta property="se:reading-ease.flesch">85.62</meta>
@@ -80,6 +82,9 @@
 		<meta property="se:url.homepage" refines="#transcriber-3">https://pgdp.net</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#transcriber-3">https://en.wikipedia.org/wiki/Distributed_Proofreaders</meta>
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-4">Robert P. Helms</dc:contributor>
+		<meta property="file-as" refines="#transcriber-4">Helms, Robert P.</meta>
+		<meta property="role" refines="#transcriber-4" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Weijia Cheng</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Cheng, Weijia</meta>
 		<meta property="se:url.homepage" refines="#producer-1">https://www.weijiarhymeswith.asia</meta>
