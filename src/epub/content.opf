@@ -52,8 +52,8 @@
 		<dc:source>https://theanarchistlibrary.org/library/voltairine-de-cleyre-a-new-hope</dc:source>
 		<dc:source>https://archive.org/details/BostonInvestigator_1893-03-15</dc:source>
 		<meta property="se:production-notes">Two poems transcribed on the Anarchist Library, “And Thou Too” and “Love’s Ghost” were excluded because I could not find backing scans for them.</meta>
-		<meta property="se:word-count">16369</meta>
-		<meta property="se:reading-ease.flesch">85.62</meta>
+		<meta property="se:word-count">16846</meta>
+		<meta property="se:reading-ease.flesch">85.32</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/voltairine-de-cleyre_poetry</meta>
 		<dc:creator id="author">Voltairine de Cleyre</dc:creator>
 		<meta property="file-as" refines="#author">Cleyre, Voltairine de</meta>
