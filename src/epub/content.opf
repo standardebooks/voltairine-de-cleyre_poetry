@@ -57,7 +57,7 @@
 		<meta property="se:reading-ease.flesch">85.32</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/voltairine-de-cleyre_poetry</meta>
 		<dc:creator id="author">Voltairine de Cleyre</dc:creator>
-		<meta property="file-as" refines="#author">Cleyre, Voltairine de</meta>
+		<meta property="file-as" refines="#author">de Cleyre, Voltairine</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Voltairine_de_Cleyre</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n81062418</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
