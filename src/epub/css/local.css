@@ -73,6 +73,10 @@ p span.i9{
 	padding-left: 10em;
 	text-indent: -1em;
 }
+
+[epub|type~="z3998:poem"] hgroup p{
+	text-align: center;
+}
 /* End poetry */
 
 /* Begin bridgeheads */
