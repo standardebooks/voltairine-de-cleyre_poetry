@@ -78,8 +78,8 @@
 		<dc:contributor id="transcriber-2">Steven Calwas</dc:contributor>
 		<meta property="file-as" refines="#transcriber-2">Calwas, Steven</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-3">The Online Distributed Proofreading Team</dc:contributor>
-		<meta property="file-as" refines="#transcriber-3">Online Distributed Proofreading Team, The</meta>
+		<dc:contributor id="transcriber-3">Distributed Proofreaders</dc:contributor>
+		<meta property="file-as" refines="#transcriber-3">Distributed Proofreaders</meta>
 		<meta property="se:url.homepage" refines="#transcriber-3">https://pgdp.net</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#transcriber-3">https://en.wikipedia.org/wiki/Distributed_Proofreaders</meta>
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
