@@ -66,8 +66,8 @@
 		<meta property="file-as" refines="#editor-of-compilation">Berkman, Alexander</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#editor-of-compilation">https://en.wikipedia.org/wiki/Alexander_Berkman</meta>
 		<meta property="se:url.authority.nacoaf" refines="#editor-of-compilation">http://id.loc.gov/authorities/names/n50008066</meta>
-		<meta property="role" refines="#editor-of-compilation" scheme="marc:relators">edc</meta>
 		<meta property="role" refines="#editor-of-compilation" scheme="marc:relators">ann</meta>
+		<meta property="role" refines="#editor-of-compilation" scheme="marc:relators">edc</meta>
 		<dc:contributor id="artist">Caspar David Friedrich</dc:contributor>
 		<meta property="file-as" refines="#artist">Friedrich, Caspar David</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Caspar_David_Friedrich</meta>
