@@ -2,6 +2,7 @@
 <se-lint-ignore>
 	<file path="poetry.xhtml">
 		<ignore code="s-023">
+			<line>4608</line>
 			<reason>The title “Written—in—Red” is styled strangely with em dashes, which is throwing titlecase off.</reason>
 		</ignore>
 	</file>
