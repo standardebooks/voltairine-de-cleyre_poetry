@@ -38,7 +38,7 @@
 		<meta property="term" refines="#subject-2">Unknown</meta>
 		<meta property="schema:genre">Poetry</meta>
 		<meta property="schema:additionalType">http://schema.org/Collection</meta>
-		<dc:abstract>A collection of Voltairine de Cleyre’s poetry.</dc:abstract>
+		<meta property="schema:abstract">A collection of Voltairine de Cleyre’s poetry.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/voltairine-de-cleyre"&gt;Voltairine de Cleyre&lt;/a&gt; was a prominent American feminist anarchist active during the late 19th and early 20th centuries.&lt;/p&gt;
 			&lt;p&gt;Despite (or, perhaps, because of) her childhood experience of being placed in a Catholic convent school, de Cleyre became a member of the anticlerical Freethought movement. Later, she became a member of the American anarchist movement after becoming outraged at the way defendants were sentenced at the 1886 Haymarket Affair trials. Influences on de Cleyre’s beliefs and writings included &lt;a href="https://standardebooks.org/ebooks/mary-wollstonecraft"&gt;Mary Wollstonecraft&lt;/a&gt; and her lover and fellow anarchist Dyer Lum. She also shared a respectful disagreement with her fellow feminist anarchist &lt;a href="https://standardebooks.org/ebooks/emma-goldman"&gt;Emma Goldman&lt;/a&gt;, who eventually came to praise her as “the most gifted and brilliant anarchist woman America ever produced.”&lt;/p&gt;
