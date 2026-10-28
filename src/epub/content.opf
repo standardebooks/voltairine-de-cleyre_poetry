@@ -84,7 +84,6 @@
 		<dc:contributor id="transcriber-3">Distributed Proofreaders</dc:contributor>
 		<meta property="file-as" refines="#transcriber-3">Distributed Proofreaders</meta>
 		<link href="https://www.pgdp.net/" refines="#transcriber-3" rel="schema:url"/>
-		<link href="https://en.wikipedia.org/wiki/Distributed_Proofreaders" refines="#transcriber-3" rel="schema:sameAs"/>
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-4">Robert P. Helms</dc:contributor>
 		<meta property="file-as" refines="#transcriber-4">Helms, Robert P.</meta>
